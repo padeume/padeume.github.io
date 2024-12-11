@@ -20,7 +20,7 @@
 
 title: Tech. Essay
 email: tom_cho@aol.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: Brick by code, I’m stacking dreams, debugging life, and shipping my future—one commit at a time. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "padeume.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: padeume
